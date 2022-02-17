@@ -1,3 +1,5 @@
+# Here is my gitignore file, it avoids the CMS and vendor files by default because I put the vue website theme into an app folder and the cms into an api folder
+
 .DS_Store
 node_modules
 /dist
